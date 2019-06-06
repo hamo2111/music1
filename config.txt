@@ -1,6 +1,6 @@
 owner=477570182106054657
-prefix=2
-game=2play | Source
+prefix=3
+game=3play | Source
 stayinchannel=true
 songinstatus=false
-token=NTg2MDA0NDk4NzUzNzgxNzcw.XPhuDQ.SRKtXout_Zn3D8g65sUpXz91NV8
+token=NTg2MDA0NDk4NzUzNzgxNzcw.XPiJsg.63jhaNobeGK08ZUzpaaboMOV8Q4
